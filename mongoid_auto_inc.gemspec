@@ -21,5 +21,5 @@ Gem::Specification.new do |s|
 
   s.required_ruby_version = '>= 1.8.6'
   s.required_rubygems_version = '>= 1.3.5'
-  s.add_bundler_dependencies
+  #s.add_bundler_dependencies
 end
